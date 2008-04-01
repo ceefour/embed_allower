@@ -16,7 +16,15 @@ if (!CUSTOM_TAGS) {
 		'id' => array (),
 		'height' => array (),
 		'width' => array (),
-		'src' => array ()
+		'src' => array (),
+		'object' => array(
+			'height' => array (),
+			'width' => array (),
+			'param' => array (
+				'name' => array (),
+				'value' => array ()
+			)
+		)
 	);
 	$allowedposttags['object'] = array(
 		'height' => array (),
@@ -24,6 +32,14 @@ if (!CUSTOM_TAGS) {
 		'param' => array (
 			'name' => array (),
 			'value' => array ()
+		),
+		'embed' => array(
+			'style' => array(),
+			'type' => array (),
+			'id' => array (),
+			'height' => array (),
+			'width' => array (),
+			'src' => array ()
 		)
 	);
 }
