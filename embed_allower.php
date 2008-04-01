@@ -20,7 +20,7 @@ if (!CUSTOM_TAGS) {
 	);
 	$allowedposttags['object'] = array(
 		'height' => array (),
-		'width' => array ()
+		'width' => array (),
 		'param' => array (
 			'name' => array (),
 			'value' => array ()
