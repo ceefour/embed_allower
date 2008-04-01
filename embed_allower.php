@@ -2,7 +2,7 @@
 /*
  * Plugin Name: Embed Allower
  * Plugin URI: http://hendyirawan.com/
- * Description: Allows embed, object, and other security risks tags.
+ * Description: Allows embed, object, and other security risks tags. LGPLv3.
  * Version: 1.0
  * Author: Hendy Irawan
  * Author URI: http://hendyirawan.com/
